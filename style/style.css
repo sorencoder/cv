@@ -32,3 +32,14 @@ hr{
     border-color: grey;
     border-width: 5px;
 }
+.touch{
+    margin: auto;
+    width: 50%;
+    border-style: groove;
+    border-width: 5px;
+    border-color: aquamarine            ;
+    padding: 10px;
+}
+.gettouch{
+    text-align: center;
+}

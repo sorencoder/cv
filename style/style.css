@@ -35,9 +35,9 @@ hr{
 .touch{
     margin: auto;
     width: 50%;
-    border-style: groove;
-    border-width: 5px;
-    border-color: aquamarine            ;
+    /* border-style: groove; */
+    /* border-width: 5px; */
+    /* border-color: aquamarine            ; */
     padding: 10px;
 }
 .gettouch{

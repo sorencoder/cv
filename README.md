@@ -1,2 +1,6 @@
 # Portfolio
-###### This website contain information regarding the concern person of the website
+###### This website is a portfolio of myself.
+## Technologies  used:
+> HTML
+> CSS
+**This website has only the front-end**
